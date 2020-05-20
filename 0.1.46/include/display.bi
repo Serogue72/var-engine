@@ -76,9 +76,6 @@ sub init_DISPLAY()
   DISPLAY.H = 2160
   DISPLAY.MULTIPLIER = 12
   '/
-  DISPLAY.W = 320
-  DISPLAY.H = 180
-  DISPLAY.MULTIPLIER = 1
   
   scale_step_DISPLAY()
   
